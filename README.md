@@ -1,3 +1,4 @@
 # myProjectApp
 API to connect database
-Author=Subha
+<br>
+Author=Subhalaxmi Sahani
